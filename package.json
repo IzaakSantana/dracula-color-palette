@@ -1,0 +1,15 @@
+{
+  "name": "dracula-color-palette",
+  "version": "1.0.0",
+  "description": "App to show color codes of the Dracula Theme allowing user to copy to clipboard",
+  "main": "app\\scripts\\main.js",
+  "repository": "https://github.com/IzaakSantana/dracula-color-palette",
+  "author": "IzaakSantana <isaacsantana.162@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^19.0.3"
+  },
+  "scripts" : {
+    "start" : "electron ."
+  }
+}
